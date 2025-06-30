@@ -1,11 +1,8 @@
-
-
 !pip install gymnasium
 !pip install "gymnasium[atari, accept-rom-license]"
 !pip install ale-py
 !apt-get install -y swig
 !pip install gymnasium[box2d]
-
 
 import os
 import random
